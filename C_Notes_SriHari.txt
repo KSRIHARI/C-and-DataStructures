@@ -1,0 +1,48 @@
+>>> This file includes <<<
+>>> ** Introduction <<<
+>>> ** Keywords
+>>> ** Identifiers
+>>> ** Control Statements
+>>> ** Functions
+>>> ** Variables
+>>> ** Operators
+>>> ** Array
+>>> ** Pointers
+>>> ** Strings
+>>> ** Macros
+>>> ** Dynamic Memory Allocation
+>>> ** Recursion
+>>>
+>>>
+>>> ** Pointers <<<
+>>> ** What is a Pointer?
+>>> ** Pointer with normal variable
+>>> ** Pointer to one dimension array
+>>> ** Pointer to two dimension array
+>>> ** Funtion to pointer
+>>> ** Pointer to Constant
+>>> ** Constant pointer to constatnt variable
+>>> ** Null pointer vs Dangling pointer
+>>> ** Void pointer
+>>> ** Pointer with character
+>>>
+>>>
+>>> ** String <<<
+>>> ** What is String?
+>>> ** Array of characters
+>>> ** Pointer with string
+>>> ** strrev()
+>>> ** strcpy()
+>>> ** strcat()
+>>> ** strcmp()
+
+
+>>> COPY PASTE THE BELOW LINK in browser to DOWNLOAD <<<
+
+**********************************************************************
+*                                                                    *
+* https://drive.google.com/open?id=1B3ZNrZJE5fD7vhvOdJ8v5_-A630QGOCp *
+*                                                                    *
+**********************************************************************
+
+
